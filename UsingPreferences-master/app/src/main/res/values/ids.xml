@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="namaMain" type="id" />
+    <item name="tv_namaMain" type="id" />
+    <item name="button_LogoutMain" type="id" />
+    <item name="et_emailSignin" type="id" />
+
+    <item name="et_passwordSignin" type="id" />
+    <item name="button_signinSignin" type="id" />
+
+    <item name="button_signupSignin" type="id" />
+</resources>
